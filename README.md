@@ -1,16 +1,16 @@
 # network_assignment_1
-before any command make sure your directory is the project
-to run server:
-  add files in folders (txt, html ...)
-  cd server
-  run: "g++ server_side.cpp -o s.out" (if not build)
-  run: sudo ./s.out
+before any command make sure your directory is the project<br>
+# to run server:<br>
+  add files in folders (txt, html ...)<br>
+  cd server<br>
+  run: "g++ server_side.cpp -o s.out" (if not build)<br>
+  run: sudo ./s.out<br>
 
-to run client:
-  add files in folders (txt, html ...)
-  add requests in input.txt file (in folder = files)
-  cd client
-  run: "g++ client_side.cpp -o c.out" (if not build)
-  run: c.out ./c.out localhost 80
+# to run client:<br>
+  add files in folders (txt, html ...)<br>
+  add requests in input.txt file (in folder = files)<br>
+  cd client<br>
+  run: "g++ client_side.cpp -o c.out" (if not build)<br>
+  run: c.out ./c.out localhost 80<br>
   
   
